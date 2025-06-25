@@ -64,3 +64,9 @@ DEPLOYED LINK:
 
 https://calender-frontend.netlify.app/
 
+Login:
+
+username: test@gmail.com
+
+password: 123456
+
